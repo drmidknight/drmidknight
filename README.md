@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Prince Kankam Boadu</h1>
+<h1 align="center">Hi, I'm Prince Kankam Boadu</h1>
 <h3 align="center">Highly skilled and motivated Frontend Engineer with a strong background in IT support and cybersecurity. Proficient in HTML, CSS, and JavaScript, with experience in developing and maintaining responsive and visually appealing web applications. Adept at troubleshooting and resolving technical issues, providing exceptional IT support to ensure smooth operations. Knowledgeable in cybersecurity principles and best practices, implementing robust security measures to protect sensitive data. Excellent problem-solving abilities, strong attention to detail, and a passion for staying updated with the latest frontend technologies and security trends.</h3>
 
 - 💬 Ask me about **Angular, Vue and Laravel**
