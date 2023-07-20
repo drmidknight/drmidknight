@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **owurekuprince@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1UokBBCgqAFnCFb3wr08Sw_eWjopvnI_U/view?usp=drive_link](https://drive.google.com/file/d/1UokBBCgqAFnCFb3wr08Sw_eWjopvnI_U/view?usp=drive_link)
+- 📄 Know about my experiences https://drive.google.com/file/d/1da9H_LxT4-zYF1Hz-EGtL1nV47cPhkyz/view?usp=sharing
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
