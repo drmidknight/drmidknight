@@ -1,7 +1,10 @@
 <h1 align="center">Hi, I'm Prince Kankam Boadu</h1>
-<h3 align="center">Highly skilled and motivated Frontend Engineer with a strong background in IT support and cybersecurity. Proficient in HTML, CSS, and JavaScript, with experience in developing and maintaining responsive and visually appealing web applications. Adept at troubleshooting and resolving technical issues, providing exceptional IT support to ensure smooth operations. Knowledgeable in cybersecurity principles and best practices, implementing robust security measures to protect sensitive data. Excellent problem-solving abilities, strong attention to detail, and a passion for staying updated with the latest frontend technologies and security trends.</h3>
+<h3 align="center">ertified Cisco CyberOps Associate with 2 years of experience in the Cybersecurity space with a strong focus on proactively securing
+digital infrastructures. Skilled in threat detection, incident response, and implementing cybersecurity measures. Proficient in Cisco
+technologies, including Security Center, Snort, and Wireshark. A results-driven professional with a commitment to continuous learning
+and collaborative problem-solving. Ready to contribute expertise to enhance cybersecurity postures in a dynamic environment.</h3>
 
-- 💬 Ask me about **Angular, Vue and Laravel**
+- 💬 Ask me about **Angular, IT Support, CyberSecurity, Linux**
 
 - 📫 How to reach me **owurekuprince@gmail.com**
 
