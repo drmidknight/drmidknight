@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Prince Kankam Boadu</h1>
-<h3 align="center">ertified Cisco CyberOps Associate with 2 years of experience in the Cybersecurity space with a strong focus on proactively securing
+<h3 align="center">Certified Cisco CyberOps Associate with 2 years of experience in the Cybersecurity space with a strong focus on proactively securing
 digital infrastructures. Skilled in threat detection, incident response, and implementing cybersecurity measures. Proficient in Cisco
 technologies, including Security Center, Snort, and Wireshark. A results-driven professional with a commitment to continuous learning
 and collaborative problem-solving. Ready to contribute expertise to enhance cybersecurity postures in a dynamic environment.</h3>
